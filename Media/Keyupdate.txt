@@ -1,0 +1,5 @@
+Key Store Path : E:\Apps\Shilaspa.vn\Android\key.jks
+Pass: anhyeuem
+Alias key1
+Pass: anhyeuem
+Link release :  E:\Apps\Shilaspa.vn\Android\app\release
